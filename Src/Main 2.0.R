@@ -2,10 +2,10 @@
 # Job scheduling algorithm with constant load
 # There are two type of resource available CC and MS
 # Schedule is generated for 28 days, 4 week. Week start with Sunday
-# Work load on Saturday and Sunday are predetermined hence not handled
+# Work load on Saturday and Sunday are fixed hence not handled
 # Nurse has to work minimum 2 days in a week and maximum 3 day in a week
 # Total number of working day per 4 week is 9 (Excluding the Saturday and Sunday)
-# There should be minimum given number of Type 1 and Total number of nurse should work in a day
+# There should be minimum given number of Type 1 and Total number of nurse working in a day
 
 # Input: void
 # Output: Void
